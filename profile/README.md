@@ -1,4 +1,4 @@
-**Dobrodošli u IT Zajednicu Srbije! 👋**
+**Dobrodošli u IT zajednicu Srbije! 👋**
 
 ### O nama
 
