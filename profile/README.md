@@ -23,6 +23,6 @@ Bilo da ste **junior**, **senior** ili **entuzijasta**, svi su dobrodošli! Mož
 ### Kako nas kontaktirati?
 
 - 🌍 **Website:** uskoro...
-- 💬 **Discord/Slack:** [https://discord.gg/TUrkFsr2mf](https://discord.gg/TUrkFsr2mf)
+- 💬 **Discord:** [https://discord.gg/TUrkFsr2mf](https://discord.gg/TUrkFsr2mf)
 
 Pridružite nam se i budite deo rastuće IT zajednice u Srbiji! 🚀
