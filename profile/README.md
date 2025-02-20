@@ -23,6 +23,6 @@ Bilo da ste **junior**, **senior** ili **entuzijasta**, svi su dobrodošli! Mož
 ### Kako nas kontaktirati?
 
 - 🌍 **Website:** [itsrbija.org](https://itsrbija.org/)
-- 💬 **Discord:** [https://discord.gg/it-srbija](https://discord.gg/it-srbija)
+- 💬 **Discord:** [discord.gg/it-srbija](https://discord.gg/it-srbija)
 
 Pridružite nam se i budite deo rastuće IT zajednice u Srbiji! 🚀
